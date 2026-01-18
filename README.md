@@ -10,9 +10,9 @@ My work bridges the gap between **Generative Computer Vision** and **Engineering
 
 ## 🔬 Current Research Focus
 
-- [cite_start]**Generative Anomaly Detection:** Leveraging Masked Autoencoders (MAE) and Variational Bottlenecks (VAE) to learn robust representations of authentic data[cite: 11, 13].
-- [cite_start]**Frequency Domain Analysis:** utilizing Wavelet transforms to detect high-frequency artifacts in synthesized media[cite: 10].
-- [cite_start]**Multimodal Learning:** fusing RGB and Event-stream data for robust object tracking[cite: 32].
+- **Generative Anomaly Detection:** Leveraging Masked Autoencoders (MAE) and Variational Bottlenecks (VAE) to learn robust representations of authentic data.
+- **Frequency Domain Analysis:** utilizing Wavelet transforms to detect high-frequency artifacts in synthesized media.
+- **Multimodal Learning:** fusing RGB and Event-stream data for robust object tracking.
 
 ---
 
@@ -20,7 +20,7 @@ My work bridges the gap between **Generative Computer Vision** and **Engineering
 
 ### 🛸 [FRED] Florence RGB-Event Drone Dataset
 
-> [cite_start]_Accepted to ACMM '25_ [cite: 30]
+> _Accepted to ACMM '25_
 
 The largest drone detection dataset for tracking and forecasting.
 
@@ -30,13 +30,13 @@ The largest drone detection dataset for tracking and forecasting.
 
 ### 🍃 Green AI Benchmarking
 
-> [cite_start]_Accepted to GREENS '25_ [cite: 37]
+> _Accepted to GREENS '25_
 
 A comprehensive study on the environmental impact of programming languages in ML.
 
-- [cite_start]**Study:** Benchmarked 7 algorithms across C++, Java, Python, MATLAB, and R[cite: 40].
-- [cite_start]**Tools:** Integrated `CodeCarbon` to measure energy consumption and CO₂ emissions per run[cite: 41].
-- [cite_start]**Finding:** Compiled languages (C++, Java) can be up to 54x more efficient than interpreted ones, but implementation quality matters most[cite: 42].
+- **Study:** Benchmarked 7 algorithms across C++, Java, Python, MATLAB, and R.
+- **Tools:** Integrated `CodeCarbon` to measure energy consumption and CO₂ emissions per run.
+- **Finding:** Compiled languages (C++, Java) can be up to 54x more efficient than interpreted ones, but implementation quality matters most.
 
 ---
 
