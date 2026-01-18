@@ -24,9 +24,9 @@ My work bridges the gap between **Generative Computer Vision** and **Engineering
 
 The largest drone detection dataset for tracking and forecasting.
 
-- [cite_start]**Data:** 14+ hours of annotated RGB and Event-stream data across 5 drone models[cite: 32].
-- [cite_start]**Contribution:** Automated annotation pipeline using MetaVision Spatter-tracker to minimize human labeling[cite: 34].
-- [cite_start]**Benchmark:** Validated with YOLO, RT-DETR, and ByteTrack[cite: 35].
+- **Data:** 14+ hours of annotated RGB and Event-stream data across 5 drone models.
+- **Contribution:** Automated annotation pipeline using MetaVision Spatter-tracker to minimize human labeling.
+- **Benchmark:** Validated with YOLO, RT-DETR, and ByteTrack.
 
 ### 🍃 Green AI Benchmarking
 
